@@ -1,0 +1,13 @@
+name: drns
+title:
+username: lcf9k8-haitao0shi
+account: lcf9k8-haitao0shi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10610595
+bundleId: 7961482
+url: https://lcf9k8-haitao0shi.shinyapps.io/drns/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app2.R|app3.R|app4.R|app5.R|datacleaning.R|VBA_Script.rtf
