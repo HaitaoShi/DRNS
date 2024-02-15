@@ -24,9 +24,8 @@ data <- read_excel("Copy of DRNS Mapping 30.6.23 no emails.xlsx", sheet = "Sheet
 # } else {
 #     hyperlinks
 # }
-
-# # Add the hyperlinks to the data frame
-# data$Reference_hyperlink <- hyperlinks
+ 
+# The method above is not working, so I created VBA_Script to do the work.
 
 
 
